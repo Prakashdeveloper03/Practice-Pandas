@@ -224,6 +224,7 @@
       <td>Sales Person</td>
       <td>Easy</td>
       <td>🟢</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
