@@ -5,6 +5,10 @@
     alt="Python"
   />
   <img
+    src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"
+    alt="Pandas"
+  />
+  <img
     src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?logo=sublime-text&amp;logoColor=important"
     alt="Sublime Text"
   />
@@ -155,43 +159,43 @@
       <td>Find Total Time Spent by Each Employee</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Game Play Analysis I</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Number of Unique Subjects Taught by Each Teacher</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Classes More Than 5 Students</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Customer Placing the Largest Number of Orders</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Group Sold Products By The Date</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Daily Leads and Partners</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td colspan="4" align="center">Data Integration</td>
@@ -200,31 +204,31 @@
       <td>Actors and Directors Who Cooperated At Least Three Times</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Replace Employee ID With The Unique Identifier</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Students and Examinations</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Managers with at Least 5 Direct Reports</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Sales Person</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
   </tbody>
 </table>
