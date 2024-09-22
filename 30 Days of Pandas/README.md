@@ -12,13 +12,9 @@
     src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?logo=sublime-text&amp;logoColor=important"
     alt="Sublime Text"
   />
-  <img
-    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white"
-    alt="vscode"
-  />
 </p>
 <p>
-  This repository contains leetcode 30 Days of Pandas solutions source code in
+  This folder contains leetcode 30 Days of Pandas solutions source code in
   Python Programming language.
 </p>
 <h2>Questions List</h2>
