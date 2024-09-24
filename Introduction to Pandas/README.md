@@ -29,6 +29,15 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="4" align="center">Pandas Data Structures</td>
+    </tr>
+    <tr>
+      <td>Create a DataFrame from List</td>
+      <td>Easy</td>
+      <td>🟢</td>
+      <td>✅</td>
+    </tr>
+    <tr>
       <td colspan="4" align="center">Data Inspection</td>
     </tr>
     <tr>
